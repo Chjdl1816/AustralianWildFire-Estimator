@@ -1,4 +1,4 @@
-# Australian Wild Fire Simulations
+# Australian Wild Fire Estimations
 ## We will try to simulate the spread and growth of Australian Wildfires using pandas and folium
 
 ***Requirements:***
